@@ -27,6 +27,10 @@
 - Pâmela Santos
 - Gabriel Peixoto
 
+## Atenção 🖐️
+
+Instalar o composer no projeto
+
 
 ### Support Ou Contato
 
